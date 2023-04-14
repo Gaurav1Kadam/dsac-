@@ -1,0 +1,1 @@
+oddt=oddt->next;
